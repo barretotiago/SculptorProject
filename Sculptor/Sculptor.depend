@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1685225527 source:c:\users\tiago barreto\desktop\sculptor\main.cpp
+	<stdio.h>
+	<iostream>
+	"sculptor.h"
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
+1685111752 c:\users\tiago barreto\desktop\sculptor\sculptor.h
+
+1685225744 source:c:\users\tiago barreto\desktop\sculptor\sculptor.cpp
+	"sculptor.h"
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+	<fstream>
+	<vector>
+
